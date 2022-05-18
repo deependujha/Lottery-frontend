@@ -1,0 +1,18 @@
+body {
+    background-image: url('images/bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+
+#myDiv{
+    margin-left:75%;
+    margin-top: 100px;
+}
+.color-txt{
+    color: rgb(247, 247, 248);
+}
+.white-txt{
+    color: white;
+}
